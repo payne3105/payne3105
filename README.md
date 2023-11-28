@@ -37,3 +37,16 @@
 <p align="left">1. Разрабатывал интерфейс для сервиса обучения в виртуальной реальности.<br><br>Дорабатывал интерфейс сервиса. Обрабатывал данные с бэка в таблицы.<br><br>2. Разрабатывал PWA - журнал посещений для студентов.<br><br>Сервис ускорил процесс отмечания студентов на паре и повысил посещаемость. Оптимизировал запросы при помощи useSWR.<br><br>Создавал свою реализацию сканера QR-кодов, работал с webworkers, кэшем.<br><br>Stack: React, Typescript, ant.design, UmiJs, React-Router-Dom, useSWR</p>
 
 ###
+
+## Статистика по GitHub
+<table align="center"><tr><td valign="top" width="50%">
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payne3105&hide_border=true&layout=compact" align="center" /></div>
+
+</td><td valign="top" width="50%">
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=payne3105&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+</td></tr></table>  
+
+<br/>  
