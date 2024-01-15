@@ -41,11 +41,11 @@
 ## Статистика по GitHub
 <table align="center"><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payne3105&hide_border=true&layout=compact" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adlarionov&hide_border=true&layout=compact" align="center" /></div>
 
 </td><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=payne3105&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=adlarionov&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 </td></tr></table>  
 
